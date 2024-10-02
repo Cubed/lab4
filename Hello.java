@@ -5,7 +5,7 @@ public class Hello {
         }
     }
     //This is an addition to the testing branch.
-    //Another new addition.
+    //Another new addition. 2
 }
 
 //Change 2
